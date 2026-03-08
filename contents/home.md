@@ -1,7 +1,7 @@
 
 # Jian Xiao (肖剑)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/musicman217/jianxiao.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/musicman217)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue)](https://scholar.google.com/citations?user=6WtIuucAAAAJ&hl=zh-CN)
 
 
